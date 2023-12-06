@@ -5,6 +5,7 @@ Testing styles and water. Started in Blender to test different boat designs, wav
 
 ![Guitar](https://github.com/HayRossSibz22/Water/assets/15817385/8f0195cc-d703-4adc-9f58-d6283fbea7b6)
 
+https://github.com/HayRossSibz22/Water/assets/15817385/64c22f50-6bb6-40fa-949a-fe1c2c641d70
 
 <img width="694" alt="BoatFloat1" src="https://github.com/HayRossSibz22/Water/assets/15817385/49eea5d2-ddaf-401e-90d2-ab914f589de5">
 
