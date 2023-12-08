@@ -16,7 +16,7 @@ The Flatkit asset comes with many options for stylizing both regular materials a
 
 https://github.com/HayRossSibz22/Water/assets/15817385/7031f357-1382-44b4-aed7-92d6db5dc433
 
-It came with a boyency script, but I added to the code so the player can move the boat.
+It came with a boyency script, but I added to code so the player can move the boat.
 
 https://github.com/HayRossSibz22/Water/assets/15817385/ac51e31e-6eaa-4450-93db-5c05783cce12
 
@@ -27,6 +27,10 @@ https://github.com/HayRossSibz22/Water/assets/15817385/6e99fbaf-31e7-4d00-97f3-f
 Currently working on the player animation. This is the rigged up character with visible armature.
 
 <img width="353" alt="Char1" src="https://github.com/HayRossSibz22/Water/assets/15817385/80d0be27-4169-479f-9686-ad3a96c259fe">
+
+I also added scripts to the Directional Lighting game object to get a day and night cycle.
+
+https://github.com/HayRossSibz22/Water/assets/15817385/ac9ddba9-6c91-442f-9def-3bb34df0aac6
 
 I plan on adding oars that the player uses to row.
 
