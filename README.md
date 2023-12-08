@@ -24,9 +24,14 @@ There is velocity dampening happening, rotation speeds, and many variables that 
 
 https://github.com/HayRossSibz22/Water/assets/15817385/6e99fbaf-31e7-4d00-97f3-f13297abb437
 
-Unity already deploys frustum culling, which enables for more demanding open world games to exist while only rendering what is infront of the camera.
+Currently working on the player animation. This is the rigged up character with visible armature.
 
-![FrustumCulling](https://github.com/HayRossSibz22/Water/assets/15817385/eeef4919-f8bb-4f60-9831-77b6225fe370)
+<img width="353" alt="Char1" src="https://github.com/HayRossSibz22/Water/assets/15817385/80d0be27-4169-479f-9686-ad3a96c259fe">
 
+I plan on adding oars that the player uses to row.
 
-I will soon be designing the main character and adding animation. I plan on adding oars that the player uses to row.
+<img width="583" alt="oar" src="https://github.com/HayRossSibz22/Water/assets/15817385/7c5f49d3-311a-48bd-b3fa-952cc0d7a056">
+
+Some concept art of a frog that will play the violin:
+
+<img width="662" alt="Frog" src="https://github.com/HayRossSibz22/Water/assets/15817385/b7440ce1-4405-409f-9758-85f4fea31d6e">
