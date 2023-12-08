@@ -15,7 +15,6 @@ Material:
   - DR_GRADIENT_ON
   - DR_OUTLINE_ON
   - DR_RIM_ON
-  - DR_SPECULAR_ON
   - _CELPRIMARYMODE_SINGLE
   - _DETAILMAPBLENDINGMODE_MULTIPLY
   - _GRADIENTSPACE_LOCAL
@@ -113,7 +112,7 @@ Material:
     - _FlatSpecularEnabled: 1
     - _FlatSpecularSize: 0.551
     - _FlatSpecularSmoothness: 0.5
-    - _Flatness: 1
+    - _Flatness: 0.771
     - _FlatnessExtra: 1
     - _FlatnessSecondary: 1
     - _GlossMapScale: 1
@@ -129,7 +128,7 @@ Material:
     - _GradientSpace: 1
     - _GradientStart: 1.17
     - _GradientTop: 10
-    - _LightContribution: 0.479
+    - _LightContribution: 0.242
     - _LightFalloffSize: 0.035
     - _LightmapDirectionPitch: 0
     - _LightmapDirectionYaw: 0
@@ -138,7 +137,7 @@ Material:
     - _OcclusionStrength: 1
     - _OutlineDepthOffset: 0.056
     - _OutlineEnabled: 1
-    - _OutlineScale: 1.02
+    - _OutlineScale: 1.01
     - _OutlineSpace: 0
     - _OutlineWidth: 1
     - _OverrideLightmapDir: 0
@@ -149,14 +148,14 @@ Material:
     - _RimEnabled: 1
     - _SecondaryColor: 1
     - _SecondaryColorEnabled: 1
-    - _SelfShadingSize: 0.491
+    - _SelfShadingSize: 0.613
     - _SelfShadingSizeExtra: 0.5
-    - _ShadowEdgeSize: 0.021
+    - _ShadowEdgeSize: 0.213
     - _ShadowEdgeSizeExtra: 0.05
     - _ShadowEdgeSmoothness: 0.01
     - _ShadowFalloff: 0.01
     - _SmoothnessTextureChannel: 0
-    - _SpecularEnabled: 1
+    - _SpecularEnabled: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
@@ -171,7 +170,7 @@ Material:
     - _VertexExtrusionSmoothNormals: 0
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 1, g: 0.27058828, b: 0.52693164, a: 1}
+    - _BaseColor: {r: 1, g: 0.27058828, b: 0.3677544, a: 1}
     - _Color: {r: 1, g: 0.6618828, b: 0.26886788, a: 1}
     - _ColorCelShadow: {r: 0.38581347, g: 0.38787434, b: 0.9622642, a: 1}
     - _ColorDim: {r: 0.78616345, g: 0, b: 0.5245958, a: 1}
